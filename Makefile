@@ -1,9 +1,9 @@
 CC = g++  
 
-SOURCES = ordered_array.cpp\
-searching.cpp\
-sorting.cpp\
-hash.cpp\
+SOURCES = main.cpp\
+Search_Sort\searching.cpp\
+Search_Sort\sorting.cpp\
+Hashmaps\hash.cpp\
 header.h
 
 OUT = datastructure
